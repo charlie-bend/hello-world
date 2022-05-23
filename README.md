@@ -1,4 +1,3 @@
 # hello-world
 intro
-Currently a juinior in college trying to break into the software engineering world
-\n ~~english~~ **code**
+Currently a juinior in college trying to break into the software engineering world... ~~english~~ **code**
